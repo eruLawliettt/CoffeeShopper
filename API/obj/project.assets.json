@@ -1877,7 +1877,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataAccess",
+      "DataAccess >= 6.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.12"
     ]
@@ -1925,7 +1925,7 @@
         "dependencies": {
           "DataAccess": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[6.0.12, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -1959,17 +1959,5 @@
         "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1604",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Project dependency DataAccess does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
-      "libraryId": "DataAccess",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v6.0"
-      ]
-    }
-  ]
+  }
 }

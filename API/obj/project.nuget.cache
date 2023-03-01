@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KLJpjq/GBf86iUKE79uVUSobhK61t4bNHNdfRdBU3wgRAjZu9BsUGk20qDXuRvqbUmNr2JPPKV53F3owohFn9Q==",
+  "dgSpecHash": "ArFFE15YRaqVePUCwxiyQPynyhKlBFw1NShZgn/k3qwK9qlzFWfUmzvN/fexfSYyvyv8+UjdqHaKyrzrkkyXjA==",
   "success": true,
   "projectFilePath": "/home/lawliet/Documents/src/CoffeeShopper/API/API.csproj",
   "expectedPackageFiles": [
@@ -49,16 +49,5 @@
     "/home/lawliet/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
     "/home/lawliet/.nuget/packages/dataaccess/1.0.0/dataaccess.1.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1604",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Project dependency DataAccess does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
-      "libraryId": "DataAccess",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
