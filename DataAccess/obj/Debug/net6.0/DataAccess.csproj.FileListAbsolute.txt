@@ -1,0 +1,14 @@
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/bin/Debug/net6.0/DataAccess.deps.json
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/bin/Debug/net6.0/DataAccess.runtimeconfig.json
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/bin/Debug/net6.0/DataAccess.dll
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/bin/Debug/net6.0/ref/DataAccess.dll
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/bin/Debug/net6.0/DataAccess.pdb
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.csproj.AssemblyReference.cache
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfoInputs.cache
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.AssemblyInfo.cs
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.csproj.CoreCompileInputs.cache
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.dll
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/ref/DataAccess.dll
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.pdb
+/home/lawliet/Documents/src/CoffeeShopper/DataAccess/obj/Debug/net6.0/DataAccess.genruntimeconfig.cache
