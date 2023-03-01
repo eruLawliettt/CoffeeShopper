@@ -15,6 +15,7 @@ public class CoffeeShopController : ControllerBase
         this.coffeeShopService = coffeeShopService;
     }
 
+    [HttpGet]
     public async Task<IActionResult> List()
     {
         var coffeeShops = await coffeeShopService.List();

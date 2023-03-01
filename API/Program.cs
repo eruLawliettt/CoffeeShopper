@@ -12,7 +12,15 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddScoped<ICoffeeShopService, CoffeeShopService>();
 
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
+
+if(app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.MapControllers();
 
