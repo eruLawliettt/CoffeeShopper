@@ -36,6 +36,10 @@ builder.Services.AddIdentityServer()
     })
     .AddDeveloperSigningCredential();
 
+    builder.Services.AddAuthorization();
+    builder.Services.AddControllers();
+    builder.Services.AddMvc();
+
 var app = builder.Build();
 
 app.UseStaticFiles();
